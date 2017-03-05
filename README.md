@@ -15,13 +15,18 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 * [✓] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
+* [x] Remembering the bill amount across app restarts (if <10mins)
+* [x] Using locale-specific currency and currency thousands separators.
 * [✓] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+* add icon that the user experience can be more friendly
+* add more options on tips by using slider
+* tip can be calculated before or after tex
+* with variable tax
+
 
 ## Video Walkthrough 
 
