@@ -37,7 +37,7 @@ class ViewController: UIViewController {
         
         // Read storaged percentage
         let readValue = defaults.double(forKey: "Percentage")
-        print("Read/New percentage from storage: ", readValue)
+        // print("Read/New percentage from storage: ", readValue)
 
         // Find the index of tipControl and update view
         var idx = 0
@@ -65,7 +65,7 @@ class ViewController: UIViewController {
         
         defaults.set(defaultRate, forKey: "Percentage")
         defaults.synchronize()
-        print ("Set default percentage - 18%")
+        // print ("Set default percentage - 18%")
         
     }
 
