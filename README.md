@@ -38,10 +38,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Instraction:
-* [x] Input your bill
-* [x] Choose your tip percentage
-* [x] Pay your total bill
+Instruction:
+*  Input your bill
+*  Choose your tip percentage
+*  Pay your total bill
 
 ## License
 
