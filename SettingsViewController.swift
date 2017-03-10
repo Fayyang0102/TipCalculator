@@ -13,7 +13,7 @@ class SettingsViewController: UIViewController {
     @IBOutlet var tipControl: UISegmentedControl!
     
     var newRate = 0.00
-    let tipPercentages:Array = [0.15, 0.18, 0.2]
+    let tipPercentages:Array = [0.10, 0.15, 0.18, 0.2, 0.25]
     let defaults = UserDefaults.standard
     
     override func viewDidLoad() {
