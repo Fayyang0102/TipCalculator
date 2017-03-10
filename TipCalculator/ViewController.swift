@@ -61,11 +61,18 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        let defaultRate = 0.15
+        var defaultRate = 0.15
         
-        defaults.set(defaultRate, forKey: "Percentage")
-        defaults.synchronize()
-        // print ("Set default percentage - 18%")
+        let readRate = defaults.double(forKey: "Percentage")
+        
+        if readRate != nil{
+            print ("Read from straoge:", readRate)
+            defaultRate = readRate
+        }
+        
+        //defaults.set(defaultRate, forKey: "Percentage")
+        //defaults.synchronize()
+        //print ("Set default percentage:", defaultRate)
         
     }
 
