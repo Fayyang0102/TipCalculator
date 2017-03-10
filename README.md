@@ -21,11 +21,11 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
-* add icon that the user experience can be more friendly
-* add more options on tips by using slider
-* tip can be calculated before or after tex
-* with variable tax
+- List anything else that you can get done to improve the app functionality!
+* [x] add icon that the user experience can be more friendly
+* [x] add more options on tips by using slider
+* [x] tip can be calculated before or after tax
+* [x] with variable tax
 
 
 ## Video Walkthrough 
@@ -38,7 +38,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Instruction:
+*  Input your bill
+*  Choose your tip percentage
+*  Pay your total bill
 
 ## License
 
