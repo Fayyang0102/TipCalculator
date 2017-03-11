@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - List anything else that you can get done to improve the app functionality!
-*  [ ] add icon that the user experience can be more friendly
+*  [x] add icon that the user experience can be more friendly
 *  [ ] add more options on tips by using slider
 *  [ ] tip can be calculated before or after tax
 *  [ ] with variable tax
@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="http://imgur.com/I0ZiE27"><img src="http://i.imgur.com/I0ZiE27.gif" title="source: imgur.com" /></a>
+<a href="http://imgur.com/eVw2Z1r"><img src="http://i.imgur.com/eVw2Z1r.gif" title="source: imgur.com" /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
