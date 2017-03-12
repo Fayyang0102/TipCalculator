@@ -4,7 +4,7 @@ TipCalculator is a tip calculator application for iOS 10.2.
 
 Submitted by: Qihui Yang
 
-Time spent: 6 hours spent in total
+Time spent: 20 hours spent in total
 
 ## User Stories
 
@@ -23,7 +23,8 @@ The following **additional** features are implemented:
 
 - List anything else that you can get done to improve the app functionality!
 *  [x] add icon that the user experience can be more friendly
-*  [ ] add more options on tips by using slider
+*  [x] add more options on tips by using slider
+*  [x] bills can be split
 *  [ ] tip can be calculated before or after tax
 *  [ ] with variable tax
 
@@ -32,7 +33,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories [image size: 3 MB]:
 
-<a href="http://imgur.com/eVw2Z1r"><img src="http://i.imgur.com/eVw2Z1r.gif" title="source: imgur.com" /></a>
+<a href="http://imgur.com/KHSYNre"><img src="http://i.imgur.com/KHSYNre.gif" title="source: imgur.com" /></a>
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -42,6 +44,10 @@ Instruction:
 *  Input your bill
 *  Choose your tip percentage
 *  Pay your total bill
+
+##Tested On:
+* Simulator: iPhone6, iPhone 7p [iOS 10.2]
+* Real: iPhone 7p
 
 ## License
 
